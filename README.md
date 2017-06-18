@@ -1,3 +1,3 @@
-# ofbiz-aps
-a mes project base on ofbiz for industry 4.0,provide web interface for isuperaps
+# ofbiz-mes
+a mes project base on ofbiz for industry 4.0
 
