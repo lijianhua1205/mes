@@ -1,3 +1,3 @@
-# ofbiz-mes
-a mes project base on ofbiz for industry 4.0
+# mes
+a mes project  for industry 4.0
 
